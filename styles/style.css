@@ -1,0 +1,19 @@
+.container {
+    background-color: #b4b4b4;
+}
+
+form {
+    align-items: center;
+    text-align: center;
+}
+
+.error {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    text-align: center;
+    font-size: 16px;
+}
+
+.col-md-12 {
+    background-color: forestgreen;
+}
